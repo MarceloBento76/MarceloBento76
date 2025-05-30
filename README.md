@@ -1,10 +1,10 @@
-# 👋 Olá! Eu sou Dr. Marcelo Bento
+👋 Olá! Eu sou Dr. Marcelo Bento
 
 Sou advogado especializado em **Direito Previdenciário** e consultor jurídico digital, com foco em oferecer soluções rápidas, eficientes e personalizadas para você e seu negócio.
 
 ---
 
-⚖️ **Áreas de Atuação:**
+⚖️ Áreas de Atuação:**
 
 - Direito Previdenciário  
 - Direito do Consumidor  
@@ -13,7 +13,7 @@ Sou advogado especializado em **Direito Previdenciário** e consultor jurídico 
 
 ---
 
-## 💡 Por que escolher meu escritório?
+Por que escolher meu escritório?
 
 - Atendimento 100% digital, sem burocracia  
 - Soluções jurídicas ágeis e personalizadas  
@@ -22,7 +22,7 @@ Sou advogado especializado em **Direito Previdenciário** e consultor jurídico 
 
 ---
 
-## 📞 Contato
+📞 Contato
 
 - 📧 Email: [consultoriajuridica.mbs@gmail.com](mailto:consultoriajuridica.mbs@gmail.com)  
 - 📱 WhatsApp: [11 94468-9061](https://wa.me/5511944689061)  
@@ -30,6 +30,6 @@ Sou advogado especializado em **Direito Previdenciário** e consultor jurídico 
 
 ---
 
-## 🚀 Vamos conversar?
+Vamos conversar?
 
 Estou pronto para ajudar você a resolver seus problemas jurídicos de forma simples e prática. Entre em contato!
